@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "minor project work",
+			"path": "."
+		},
+		{
+			"name": "Pages-inside",
+			"path": "../tourindia-master/Pages-inside"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
